@@ -1,1 +1,8 @@
+# Site settings
+title: Portforlio
+author:
+  name: Brandonlee Santos
+  email: santos.brandonlee1@gmail.com
+
+# Build settings
 remote_theme: jekyll/minima
