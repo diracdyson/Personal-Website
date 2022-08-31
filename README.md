@@ -3,8 +3,7 @@
 
 
 # [Modern Portfolio Theory](https://github.com/diracdyson/VaRGARCH)
-![](/Unknown2.png)
-
+![](/Unknown-2.png)
 - In this project Classical Markowtiz theory is compared with time-series parametric methods GARCH and GARCH with student - t dist. 
 
 # [Heston Option Pricing](https://www.github.com/diracdyson/HESTON)
