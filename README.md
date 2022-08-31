@@ -1,4 +1,4 @@
-# My Personal Website
+Welcome! 
 # [Modern Portfolio Theory](https://github.com/diracdyson/VaRGARCH)
 ![](/Unknown-2.png)
 - There are many ways to calulcate VaR such as historical bootstrapping, the classical Marokwitz way and advanced statistical methods
