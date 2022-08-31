@@ -4,9 +4,10 @@
 
 # [Modern Portfolio Theory](https://github.com/diracdyson/VaRGARCH)
 ![](/Unknown-2.png)
+- There are many ways to calulcate VaR such as historical bootstrapping, the classical Marokwitz way and advanced statistical methods
+- In this project Classical Markowtiz theory is compared with time-series parametric methods GARCH developed from scratch and GARCH from the ARCH package with student - t dist.
+- Value at Risk is computed three different ways using bootstrapping, Markowitz way and via GARCH
 
-- In this project Classical Markowtiz theory is compared with time-series parametric methods GARCH and GARCH with student - t dist. 
-- I train and test a GARCH(1,1) on a real world portfolio
 
 # [Heston Option Pricing](https://www.github.com/diracdyson/HESTON)
 ![](/Unknown-1-1.png)
