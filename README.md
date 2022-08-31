@@ -1,4 +1,3 @@
-# Personal-Website 
 
 # [Heston Option Pricing](https://www.github.com/diracdyson/HESTON)
 ![](https://github.com/diracdyson/HESTON/blob/main/Unknown-1.png)
