@@ -4,7 +4,9 @@
 
 # [Modern Portfolio Theory](https://github.com/diracdyson/VaRGARCH)
 ![](/Unknown-2.png)
+
 - In this project Classical Markowtiz theory is compared with time-series parametric methods GARCH and GARCH with student - t dist. 
+- I train and test a GARCH(1,1) on a real world portfolio
 
 # [Heston Option Pricing](https://www.github.com/diracdyson/HESTON)
 ![](/Unknown-1-1.png)
