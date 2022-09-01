@@ -1,8 +1,8 @@
 # Site settings
-title: Portfolio
+title: Portfolio of Brandonlee Santos
 author:
   name: Brandonlee Santos
   email: santos.brandonlee1@gmail.com
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/slate
