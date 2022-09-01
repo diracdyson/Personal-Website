@@ -5,4 +5,4 @@ author:
   email: santos.brandonlee1@gmail.com
 
 # Build settings
-remote_theme: jekyll/slate
+remote_theme: jekyll/minima
