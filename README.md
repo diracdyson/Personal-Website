@@ -1,4 +1,14 @@
-Welcome! 
+Welcome!( Sorry currently under heavy construction)
+# Current Areas of interest
+- Unsupervised clustering K-Means, LOF, DBSCAN, GMM, Transformers, AutoEncoders
+- Supervised learning for forecasting and classification ANN, CNN, LSTM, Naive Bayes
+- Ensemble methods Random Forest
+- Dimension reduction methods PCA, and LDA
+- Time-Series forecasting(Box Jenkins SARIMAX methodology, AR-GARCH vol forecasting)
+- Stochastic Calculus( Stochastic vol models pricing for options, local vol)
+- Numerical methods for simulating PDE's (finite diff. method)
+- Feature engineering Data analysis with SQL, Pandas and Google Data Studio
+
 # [Modern Portfolio Theory](https://github.com/diracdyson/VaRGARCH)
 ![](/Unknown-2.png)
 - There are many ways to calulcate VaR such as historical bootstrapping, the classical Marokwitz way and advanced statistical methods
@@ -12,7 +22,7 @@ Welcome!
 
 ![](/volsurf.png)
 
-- In the notrious Black Scholes models assuming Geometric Brownian Motion for the Stock Price and constructing a risk neutral portforlio via Ito's lemma allows one to derive a beta neutral pricing formula
+- The notrious Black Scholes models assummes Geometric Brownian Motion for the Stock Price, and  constructing a risk neutral portforlio then subbing in Ito's lemma allows one to derive a beta neutral pricing formula for a call or put
 - This leads one to consider how to deal with the 'volatility smile' of the Black Scholes model
 - In this project I conisder Geometric Brownian Motion for the volatility of the stock price, which in turns derives the Heston PDE
 - I then fit the solution to the PDE to real world option data and extrapolate projections
