@@ -1,13 +1,13 @@
 Welcome!( Sorry currently under heavy construction)
 # Current Areas of interest
-- Unsupervised clustering K-Means, LOF, DBSCAN, GMM, Transformers, AutoEncoders
+- Semi/Unsupervised learning K-Means, LOF, DBSCAN, GMM, Transformers, AutoEncoders
 - Supervised learning for forecasting and classification ANN, CNN, LSTM, Naive Bayes
 - Ensemble methods Random Forest
 - Dimension reduction methods PCA, and LDA
 - Time-Series forecasting(Box Jenkins SARIMAX methodology, AR-GARCH vol forecasting)
 - Stochastic Calculus( Stochastic vol models pricing for options, local vol)
 - Numerical methods for simulating PDE's (finite diff. method)
-- Feature engineering Data analysis with SQL, Pandas and Google Data Studio
+- Feature engineering and Data Analysis with SQL, Pandas and Google Data Studio
 
 # [Modern Portfolio Theory](https://github.com/diracdyson/VaRGARCH)
 ![](/Unknown-2.png)
