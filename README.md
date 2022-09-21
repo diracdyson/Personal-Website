@@ -1,6 +1,6 @@
 Welcome! This is my Data Science/ Financial Engineering portfolio
 
-# [Financial Returns analysis and Sharpe Ratio from Weighted Least Squares](https://github.com/diracdyson/Antarctica-Managment-Returns)
+# [Financial Returns Analysis and Sharpe Ratio from Weighted Least Squares](https://github.com/diracdyson/Antarctica-Managment-Returns)
 ![](/heatant.png)
 - This was real life returns data of a Hedge Fund and its strategies provided by Antarctica Asset Management
 - Dealt with outliters by Z-score method and applied the generalized least sqaures method for heterosckedastic time-series data and deduced a better portfolio than the Hedge Fund from a CAPM multilinear regression model
