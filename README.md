@@ -7,7 +7,6 @@ Welcome! This my Data Science/ Financial Engineering portfolio
 - Forecasted for monthly sales under the SARIMAX Box-Jenkins methodology and also used Facebook's Prophet forecasting model with Logistic
 - Analyzed feature importance through classifying a clustering and found furniture as notably and unsurprisingly the most important feature
 
-
 # [Modern Portfolio Theory](https://github.com/diracdyson/VaRGARCH)
 ![](/Unknown-2.png)
 - There are many ways to calulcate VaR such as historical bootstrapping, the classical Marokwitz way and advanced statistical methods
