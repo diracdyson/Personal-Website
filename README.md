@@ -1,10 +1,11 @@
 Welcome! This my Data Science/ Financial Engineering portfolio
 
-# [Exploratory Data Anaysis + Sales Time-Series Clustering and Forecasting](https://github.com/diracdyson/Super-Store-EDA)
+# [Exploratory Data Anaysis + Sales Time-Series Forecasting and Classifying a Clustering](https://github.com/diracdyson/Super-Store-EDA)
 ![](/box.png)
 ![](/prophet.png)
 - Basic data exploration and notable business discoveries such as stores in a Texas having negative profit in 2017 due to mainly selling disocounted items at a loss
 - Forecasted for monthly sales under the SARIMAX Box-Jenkins methodology and also used Facebook's Prophet forecasting model with Logistic
+- Analyzed feature importance through classifying a clustering and found furniture as notably and unsurprisingly the most important feature
 
 
 # [Modern Portfolio Theory](https://github.com/diracdyson/VaRGARCH)
