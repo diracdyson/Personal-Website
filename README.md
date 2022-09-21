@@ -1,8 +1,8 @@
 Welcome! This is my Data Science/ Financial Engineering portfolio
 
-# [Real Life Financial Returns Sharpe Ratio from Generalized Least Squares](https://github.com/diracdyson/Antarctica-Managment-Returns)
+# [Financial Returns Sharpe Ratio from Generalized Least Squares](https://github.com/diracdyson/Antarctica-Managment-Returns)
 ![](/heatant.png)
-- This was sample data provided by Antarctica Asset Management
+- This was real life returns data of a Hedge Fund and its strategies provided by Antarctica Asset Management
 - Dealt with outliters by Z-score method and applied the generalized least sqaures method for heterosckedastic time-series data and deduced a better portfolio than the Hedge Fund from a CAPM multilinear regression model
 - Dispersion analysis is used to decipher riskyness of portfolio
 
