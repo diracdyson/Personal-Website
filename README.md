@@ -1,6 +1,6 @@
 Welcome! This my Data Science/ Financial Engineering portfolio
 
-#[Housing Prediction Feature Engineering and big data Forecasting]
+# [Housing Prediction Feature Engineering and big data Forecasting](https://github.com/diracdyson/Housing-Price-Feature-Engineering-Forecasting)
 - Utilized Pandas and Scikit-learn to perform feature engineering on a housing dataset with 83 features manipulating missing values, outliers, numerical and categorical features
 - Forecasted for house price and selected features through exploiting LASSO Regression and analyzed feature importance with the aid of permutation and mean decrease in impurity by Random Forest Regressor via Scikit-learn
 
