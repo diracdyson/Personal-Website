@@ -1,6 +1,11 @@
 Welcome! This is my Data Science/ Financial Engineering portfolio
 
-# [House Price Forecasting and Feature Engineering with Big Data](https://github.com/diracdyson/Housing-Price-Feature-Engineering-Forecasting)
+# [Real Life Financial Returns]
+- This was sample data provided by Antarctica Asset Management 18 columns of financial return strategies
+- Dealt with outliters by Z-score method and applied the generalized least sqaures method for heterosckedastic time-series data and deduced a better portfolio than the Hedge Fund from a CAPM multilinear regression model
+- Dispersion analysis is used to decipher riskyness of portfolio
+
+# [House Price Forecasting and Feature Engineering Big Data](https://github.com/diracdyson/Housing-Price-Feature-Engineering-Forecasting)
 ![](/mdi.png)
 - Utilized Pandas and Scikit-learn to perform feature engineering on a housing dataset with 83 features manipulating missing values, outliers, numerical and categorical features
 - Forecasted for house price and selected features through exploiting LASSO Regression and analyzed feature importance with the aid of permutation and mean decrease in impurity by Random Forest Regressor via Scikit-learn
