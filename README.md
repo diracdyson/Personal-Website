@@ -1,11 +1,16 @@
 Welcome! This my Data Science/ Financial Engineering portfolio
 
+# Exploratory Data Anaysis + Sales Time-Series Clustering and Forecasting( small data ~ 20 features and 10000 rows)
+![](/box.png)
+![](/hist.png)
+![](/prophet.png)
+
+
 # [Modern Portfolio Theory](https://github.com/diracdyson/VaRGARCH)
 ![](/Unknown-2.png)
 - There are many ways to calulcate VaR such as historical bootstrapping, the classical Marokwitz way and advanced statistical methods
 - In this project Classical Markowtiz theory is compared with time-series parametric methods GARCH developed from scratch and GARCH from the ARCH package with student - t dist.
 - Value at Risk is computed three different ways using bootstrapping, Markowitz way and via GARCH
-
 
 # [Heston Option Pricing](https://www.github.com/diracdyson/HESTON)
 ![](/Unknown-1-1.png)
