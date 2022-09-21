@@ -4,7 +4,7 @@ Welcome! This my Data Science/ Financial Engineering portfolio
 ![](/box.png)
 ![](/prophet.png)
 -  Found significant business discoveries during basic data exploration such as stores in Texas having negative profit in 2017 due to mainly selling large amounts of discounted binders at a loss
-- Forecasted for monthly sales under the SARIMAX Box-Jenkins methodology and also used Facebook's Prophet forecasting model with Logistic
+- Forecasted for monthly furniture sales under the SARIMAX Box-Jenkins methodology and also used Facebook's Prophet forecasting model
 - Analyzed feature importance through classifying a clustering and found furniture as notably and unsurprisingly the most important feature
 
 # [Modern Portfolio Theory](https://github.com/diracdyson/VaRGARCH)
