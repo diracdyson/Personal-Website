@@ -1,11 +1,9 @@
 Welcome! This my Data Science/ Financial Engineering portfolio
 
-# [Housing Prediction Feature Engineering and Big Data Forecasting](https://github.com/diracdyson/Housing-Price-Feature-Engineering-Forecasting)
+# [House Price Forecasting Feature Engineering with Big Data](https://github.com/diracdyson/Housing-Price-Feature-Engineering-Forecasting)
 ![](/mdi.png)
 - Utilized Pandas and Scikit-learn to perform feature engineering on a housing dataset with 83 features manipulating missing values, outliers, numerical and categorical features
 - Forecasted for house price and selected features through exploiting LASSO Regression and analyzed feature importance with the aid of permutation and mean decrease in impurity by Random Forest Regressor via Scikit-learn
-
-
 
 # [Exploratory Data Anaysis + Sales Time-Series Forecasting and Classifying a Clustering](https://github.com/diracdyson/Super-Store-EDA)
 ![](/box.png)
@@ -33,12 +31,14 @@ These are some of the topics I have covered relating to machine learning and fin
 - Ensemble methods CART, Random Forest, AdaBoost
 - Dimension reduction methods PCA, and LDA
 - Feature engineering and Data Analysis preprocessing with SQL, Pandas and Google Data Studio
+- Matrix Profile
 # Financial Engineering
 - Time-Series forecasting Box Jenkins SARIMAX methodology, AR-GARCH vol forecasting with rolling window validation
 - Stochastic Calculus volatility modeling
 - Numerical methods for simulating PDE's finite diff. method
 - Value At Risk, CVaR in classical finance/stats and copulas
 - Machine learning copulas
+- Kalman Filter
 # More specific topics of interest
 - Outlier detection in unsupervised learning( writing a paper on this)
 - LM, Wald, LR hypothesis test methods( making your own Hypothesis test)
