@@ -1,4 +1,4 @@
-Welcome! This my Data Science/ Financial Engineering portfolio
+Welcome! This is my Data Science/ Financial Engineering portfolio
 
 # [House Price Forecasting and Feature Engineering with Big Data](https://github.com/diracdyson/Housing-Price-Feature-Engineering-Forecasting)
 ![](/mdi.png)
