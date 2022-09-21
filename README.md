@@ -24,7 +24,9 @@ Welcome! This my Data Science/ Financial Engineering portfolio
 - In this project I conisder Geometric Brownian Motion for the volatility of the stock price, which in turns derives the Heston PDE, I then fit the solution to the PDE to real world option data and extrapolate projections
 
 
-These are some of the topics I have covered relating to machine learning and financial engineering(Sorry currently under heavy construction)
+
+
+Below are some of the topics I have covered relating to machine learning and financial engineering(Sorry currently under heavy construction)
 # Statistical and Applied Machine Learning for Data Science
 - Semi/Unsupervised learning K-Means, LOF, DBSCAN, GMM, Transformers, AutoEncoders, VAE's
 - Supervised learning for forecasting and classification ANN, CNN, LSTM, GDA
