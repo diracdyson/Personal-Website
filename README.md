@@ -1,6 +1,7 @@
 Welcome! This my Data Science/ Financial Engineering portfolio
 
-# [Housing Prediction Feature Engineering and big data Forecasting](https://github.com/diracdyson/Housing-Price-Feature-Engineering-Forecasting)
+# [Housing Prediction Feature Engineering and Big Data Forecasting](https://github.com/diracdyson/Housing-Price-Feature-Engineering-Forecasting)
+![](/mdi.png)
 - Utilized Pandas and Scikit-learn to perform feature engineering on a housing dataset with 83 features manipulating missing values, outliers, numerical and categorical features
 - Forecasted for house price and selected features through exploiting LASSO Regression and analyzed feature importance with the aid of permutation and mean decrease in impurity by Random Forest Regressor via Scikit-learn
 
@@ -8,7 +9,6 @@ Welcome! This my Data Science/ Financial Engineering portfolio
 
 # [Exploratory Data Anaysis + Sales Time-Series Forecasting and Classifying a Clustering](https://github.com/diracdyson/Super-Store-EDA)
 ![](/box.png)
-![](/prophet.png)
 -  Found significant business discoveries during basic data exploration such as stores in Texas having negative profit in 2017 due to mainly selling large amounts of discounted binders at a loss
 - Forecasted for monthly furniture sales under the SARIMAX Box-Jenkins methodology and also used Facebook's Prophet forecasting model
 - Analyzed feature importance through classifying a clustering and found furniture as notably and unsurprisingly the most important feature
@@ -21,10 +21,6 @@ Welcome! This my Data Science/ Financial Engineering portfolio
 
 # [Heston Option Pricing](https://www.github.com/diracdyson/HESTON)
 ![](/Unknown-1-1.png)
-
-
-![](/volsurf.png)
-
 - The notrious Black Scholes models assummes Geometric Brownian Motion for the Stock Price; constructing a risk neutral portforlio then subbing in Ito's lemma allows one to derive a beta neutral pricing formula for a call or put
 - This leads one to consider how to deal with the 'volatility smile' and time dynamic volatility of not considered in the Black Scholes model
 - In this project I conisder Geometric Brownian Motion for the volatility of the stock price, which in turns derives the Heston PDE, I then fit the solution to the PDE to real world option data and extrapolate projections
