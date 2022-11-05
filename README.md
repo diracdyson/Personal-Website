@@ -1,5 +1,8 @@
 Welcome! This is my Data Science/ Financial Engineering portfolio
-
+# [Banking Churn Classification](https://github.com/diracdyson/churn)
+![](/roccurve.png)
+- Feature engineered dataset in Pandas and Scikit-learn removing irrelevant features, applying hot autoencoding to categorical features, standardized scaling to numerical features, over-sampling to rebalance target feature and principal component analysis 
+- Compared a plethora of models, but ultimately obtained a XGBoost model through hyperparameter grid search and K-fold cross validation with above 90 percent test accuracy
 # [Financial Returns Analysis and Sharpe Ratio from Weighted Least Squares](https://github.com/diracdyson/Antarctica-Managment-Returns)
 ![](/heatant.png)
 - This was real life returns data of a Hedge Fund and its strategies provided by Antarctica Asset Management
