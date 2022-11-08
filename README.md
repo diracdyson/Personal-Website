@@ -1,4 +1,4 @@
-Welcome! This is my Data Science/ Financial Engineering portfolio
+Welcome! This is my Data Science/ Financial Engineering portfolio. Check out GitHub.
 
 [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](google.com)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brandonlee-santos/)
