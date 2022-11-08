@@ -3,6 +3,7 @@
 
 
 Welcome! This is my Data Science/ Financial Engineering portfolio. Check out my GitHub.
+
 [Current topics of interest](/skrt.md)
 
 
