@@ -1,7 +1,7 @@
 Welcome! This is my Data Science/ Financial Engineering portfolio
 
 [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](google.com)
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brandonlee-santos/)
 # [Banking Churn Classification](https://github.com/diracdyson/churn)
 ![](/roccurve.png)
 - Feature engineered dataset in Pandas and Scikit-learn removing irrelevant features, applying hot autoencoding to categorical features, standardized scaling to numerical features, over-sampling to rebalance target feature and principal component analysis 
