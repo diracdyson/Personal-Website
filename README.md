@@ -1,6 +1,6 @@
 Welcome! This is my Data Science/ Financial Engineering portfolio. Check out my GitHub.
 
-[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](google.com)
+[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/diracdyson)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brandonlee-santos/)
 # [Banking Churn Classification](https://github.com/diracdyson/churn)
 ![](/roccurve.png)
