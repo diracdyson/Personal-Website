@@ -2,10 +2,11 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brandonlee-santos/)
 
 
-Welcome! This is my Data Science/ Financial Engineering portfolio. Check out my GitHub.
+Welcome! This is my Data Science/ Financial Engineering portfolio. My GitHub contains a lot of other stuff.
 
 
-About me: As a recent graduate from Stony Brook University with a double major in Applied Mathematics and Statistics and Physics I am seeking employment as a Quantitative Researcher/ Risk Analyst or Data Scientist/ Analyst; I have completed various projects in Quantum Computing, Machine Learning and Quantitative Finance either through university, the Institute of Advanced Computational Science at Stony Brook University or independently 
+About me: As a recent graduate from Stony Brook University with a double major in Applied Mathematics and Statistics and Physics I am seeking employment as a Quantitative Researcher/ Risk Analyst or Data Scientist/ Analyst; I have completed various projects in Quantum Computing, Machine Learning and Quantitative Finance either through university, the Institute of Advanced Computational Science at Stony Brook University or independently. My strong suit lies in pure data science, which is more or less statistical model development to solve financial business problems, although
+I am also a researcher at heart and love building 'my own' object oriented models 
 
 
 My current 'tech stack' in Python is the following:
@@ -14,7 +15,7 @@ My current 'tech stack' in Python is the following:
 Data Analysis/Manipulation: Pandas, Seaborn, Matplotlib
 
 
-Model Development: NumPy, SciPy, Scikit-learn, Statsmodels,  Keras, TensorFlow, PyTorch, ARCH, pdarima
+Model Development: NumPy, SciPy, Scikit-learn, Statsmodels, Keras, TensorFlow, PyTorch, ARCH, pdarima
 
 
 [Current topics of interest](/skrt.md)
