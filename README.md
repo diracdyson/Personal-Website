@@ -9,6 +9,7 @@ About me:
 - Recent graduate from Stony Brook University with a double major in Applied Mathematics and Statistics and Physics(May 2021)
 - Seeking employment as a Quantitative Researcher/ Risk Analyst or Data Scientist/ Analyst
 - I have completed various projects in Quantum Computing, Machine Learning and Quantitative Finance either through university, the Institute of Advanced Computational Science at Stony Brook University or independently. My strong suit lies in pure data science, which is more or less data analysis and statistical model development(classical stats, advanced ML, time-series) to solve financial business problems, although you can see I am a researcher at heart.
+- Working on a research paper on anomaly detection on comparing classical stats(Tukey's fences) and modern day ML methods( VAE's, AE's, density methods, non-parametric methods) and providing a dynamic sophisticated methodolgical framework for anomaly detection in univariate time-series( potentially generalizes to n-dimensional time-series)
 
 
 My current 'tech stack' in Python is the following:
