@@ -8,6 +8,8 @@
 - linkedin crap
 - Quant finance jp morgan 
 - Hackrank python
+- LOSS function constant in boosted autoencoder my implementation of  https://arxiv.org/pdf/2110.15307.pdf
+- I asked on stackexhange and people were not interested
 
 # 12/14/22
 
