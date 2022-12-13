@@ -1,4 +1,7 @@
-[My Calendar](/calendar.md)
+[What I work on the daily](/calendar.md)
+
+
+
 About me:
 - Recent graduate from Stony Brook University with a double major in Applied Mathematics and Statistics and Physics(May 2021)
 - Seeking employment as a Quantitative Researcher/ Risk Analyst or Data Scientist/ Analyst
