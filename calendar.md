@@ -1,3 +1,9 @@
+## UPDATE ON 12/15/22
+- PSETS for app of stats mit 
+- credit card approval prediction(first end to end)
+- review clustering finale 
+- Gaussian Processes 
+- - linkedin crap
 ## UPDATE ON 12/14/22
 - PSETS for app of stats mit 
 - hackerank
