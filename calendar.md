@@ -5,6 +5,7 @@
 - Gaussian Processes 
 - linkedin crap
 - c++ pytorch
+- how to boost autoencoder?? dying RELU/ vanishing gradient -> constant loss function
 ## UPDATE ON 12/14/22
 - PSETS for app of stats mit 
 - hackerank
