@@ -1,7 +1,7 @@
 ## UPDATE ON 12/16/22
 - NYC starbucks
 - PSETS for app of stats mit 
-- FORECASTING antarctica 
+- FORECASTING antarctica robust model for production
 - review clustering finale 
 - credit card approval prediction(first end to end)
 - how to boost autoencoder?? dying RELU/ vanishing gradient -> constant loss function
