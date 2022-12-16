@@ -1,4 +1,5 @@
 ## UPDATE ON 12/16/22
+- NYC starbucks
 - PSETS for app of stats mit 
 - FORECASTING antarctica 
 - review clustering finale 
