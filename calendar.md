@@ -1,3 +1,9 @@
+## UPDATE ON 12/16/22
+- PSETS for app of stats mit 
+- FORECASTING antarctica 
+- review clustering finale 
+- credit card approval prediction(first end to end)
+- how to boost autoencoder?? dying RELU/ vanishing gradient -> constant loss function
 ## UPDATE ON 12/15/22
 - PSETS for app of stats mit 
 - credit card approval prediction(first end to end)
