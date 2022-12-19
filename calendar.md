@@ -1,3 +1,8 @@
+## UPDATE ON 12/19/22
+- FORECASTING antarctica robust model for production resolved
+- PSETS for app of MIT
+- CREDIT SCORE
+- research paper: how to boost autoencoder?? constant loss function
 ## UPDATE ON 12/16/22
 - NYC starbucks
 - PSETS for app of stats mit 
