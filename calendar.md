@@ -1,4 +1,5 @@
 ## UPDATE ON 12/19/22
+- Stats models Bruesch Pagan LM test does not work if # of heteroskedastic EXOG=1 as degree of freedom for chi_squared=0-> p_val=Nan, F test for homogeneity is used, this is also done in the R implementation
 - FORECASTING antarctica robust model for production resolved
 - PSETS for app of MIT
 - CREDIT SCORE
