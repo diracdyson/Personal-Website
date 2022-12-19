@@ -3,6 +3,7 @@
 - FORECASTING antarctica robust model for production resolved
 - PSETS for app of MIT
 - CREDIT SCORE
+- advent code challenge
 - research paper: how to boost autoencoder?? constant loss function
 ## UPDATE ON 12/16/22
 - NYC starbucks
