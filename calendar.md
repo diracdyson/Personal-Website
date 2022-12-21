@@ -1,3 +1,8 @@
+## UPDATE ON 12/20/22
+- FORECASTING antarctica robust model for production improved and organized more clear documentation
+- advent code challenge
+- clustering
+- research paper: how to boost autoencoder?? constant loss function
 ## UPDATE ON 12/19/22
 - Stats models Bruesch Pagan LM test does not work if # of heteroskedastic EXOG=1 as degree of freedom for chi_squared=0-> p_val=Nan, F test for homogeneity is used, this is also done in the R implementation
 - FORECASTING antarctica robust model for production resolved
