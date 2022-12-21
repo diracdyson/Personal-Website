@@ -1,3 +1,9 @@
+## UPDATE ON 12/21/22
+- econometrics GREENE grad level book 
+- forecasting 
+- clustering
+- credit score 
+- research how to boosted + inexact labels -> 
 ## UPDATE ON 12/20/22
 - FORECASTING antarctica robust model for production improved and organized more clear documentation
 - advent code challenge
