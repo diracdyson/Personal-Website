@@ -3,7 +3,7 @@
 - advent code challenge
 - clustering
 - research paper: how to boost autoencoder??
-- how to deal with inexact labels: https://link.springer.com/article/10.1007/s10994-020-05880-w
+- [how to deal with inexact labels paper:](https://link.springer.com/article/10.1007/s10994-020-05880-w)
 ## UPDATE ON 12/19/22
 - Stats models Bruesch Pagan LM test does not work if # of heteroskedastic EXOG=1 as degree of freedom for chi_squared=0-> p_val=Nan, F test for homogeneity is used, this is also done in the R implementation
 - FORECASTING antarctica robust model for production resolved
