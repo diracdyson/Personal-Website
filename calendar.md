@@ -4,7 +4,10 @@
 - clustering
 - credit score 
 - research how to boosted + inexact labels -> 
-## UPDATE ON 12/20/22
+- [stress testing](https://www.cefpro.com/wp-content/uploads/2019/07/14.10-Dmitry-Lobaskin.pdf)
+- [tier of models break down by dimitri bianco](https://www.youtube.com/watch?v=8seNl7jdsQQ&t=1290s)
+- how to implement proper model documentation given particualr resources, time frame, competenacy of team and number of the team memebers
+## UPDATE ON 12/20/22 
 - FORECASTING antarctica robust model for production improved and organized more clear documentation
 - advent code challenge
 - clustering
