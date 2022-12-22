@@ -1,6 +1,7 @@
 ## UPDATE ON 12/22/22
 - clustering 
-- forecatsing pickle dump prodcution incrementally 
+- forecatsing pickle dump prodcution incrementally
+- econometrics
 ## UPDATE ON 12/21/22
 - econometrics GREENE grad level book 
 - forecasting 
