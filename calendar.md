@@ -2,6 +2,7 @@
 - clustering 
 - forecatsing pickle dump prodcution incrementally
 - econometrics
+- [PACF stats models issue np.sqrt var issue](https://stackoverflow.com/questions/51436580/linear-model-py1283-runtimewarning-invalid-value-encountered-in-sqrt-return-r)
 ## UPDATE ON 12/21/22
 - econometrics GREENE grad level book 
 - forecasting 
