@@ -1,3 +1,8 @@
+# UPDATE ON 12/29/22
+- took break for christmas
+- Looked over dougs PhD research ideas
+- forecasting incrementally
+- research how to boost autoencoder
 ## UPDATE ON 12/23/22
 - forecasting incrementally
 - research how to boost autoencoder
