@@ -3,6 +3,7 @@
 - Looked over dougs PhD research ideas
 - forecasting incrementally
 - research how to boost autoencoder
+- hitch hikers guide to python
 ## UPDATE ON 12/23/22
 - forecasting incrementally
 - research how to boost autoencoder
