@@ -1,4 +1,7 @@
 # UPDATE ON 12/29/22
+- Robust level forecasting model dev time-series
+- prototyping organzing code exploting the pdarima package
+# UPDATE ON 12/29/22
 - took break for christmas
 - Looked over dougs PhD research ideas
 - forecasting incrementally
