@@ -1,3 +1,10 @@
+# UPDATE ON 1/04/23
+- NumerAI hedge fund model dev !
+# UPDATE ON 1/03/23
+- MIT PSET STATS OF APP, ECONOMETRICS GREENE
+- [helpful PSU advanced stats notes](https://personal.psu.edu/drh20/asymp/fall2002/lectures/ln02.pdf)
+- customer segmentation 
+- CS question
 # UPDATE ON 12/30/22
 - Robust level forecasting model dev time-series
 - prototyping organzing code exploting the pdarima package
