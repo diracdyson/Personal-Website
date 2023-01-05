@@ -8,6 +8,7 @@
 - How to implement autoencoder is still bugging me I have to reread tensorflow documentations I kno it is something stupid 
 # UPDATE ON 1/04/23
 - NumerAI hedge fund model dev !
+- Marcos lopez de prados 10 reasons why quant funds fail and 3 lessons from covid
 # UPDATE ON 1/03/23
 - MIT PSET STATS OF APP, ECONOMETRICS GREENE
 - [helpful PSU advanced stats notes](https://personal.psu.edu/drh20/asymp/fall2002/lectures/ln02.pdf)
