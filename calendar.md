@@ -1,3 +1,11 @@
+# UPDATE ON 1/05/23
+- NumerAI hedge fund model dev !
+- [base models](https://tit-btcqash.medium.com/a-comprehensive-guide-to-competing-at-numerai-70b356edbe07)
+- [other example](https://github.com/sarajcev/numerai/blob/master/numerai.ipynb)
+- [suggestion to use umap for feature reduction](https://forum.numer.ai/t/numerai-self-supervised-learning-data-augmentation-projects/5003/2)
+- PCA and LASSO do not seem to work well with low correlation data
+- NEURAL NETWORKS require way too much mantience for this type of problem although it is certainly feasible with domain expertise and alot of time
+- How to implement autoencoder is still bugging me I have to reread tensorflow documentations I kno it is something stupid 
 # UPDATE ON 1/04/23
 - NumerAI hedge fund model dev !
 # UPDATE ON 1/03/23
