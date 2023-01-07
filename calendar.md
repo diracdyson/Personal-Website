@@ -1,3 +1,6 @@
+# UPDATE ON 1/06/23
+- model dev NumerAI ran into RAM issue may have to purchase colab pro
+- fitted hist xgboost with hyperparam
 # UPDATE ON 1/05/23
 - NumerAI hedge fund model dev !
 - [base models](https://tit-btcqash.medium.com/a-comprehensive-guide-to-competing-at-numerai-70b356edbe07)
