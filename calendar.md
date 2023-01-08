@@ -1,3 +1,6 @@
+# UPDATE ON 1/08/23
+- model dev NumerAI
+- JP morgan QR hackerrank prep
 # UPDATE ON 1/06/23
 - model dev NumerAI ran into RAM issue may have to purchase colab pro
 - fitted hist xgboost with hyperparam
