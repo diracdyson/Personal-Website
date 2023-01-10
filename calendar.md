@@ -1,6 +1,8 @@
 # UPDATE ON 1/10/23
 - model dev NumerAI
 - JP morgan QR hackerrank prep 5 hour grid search lmfao next round in 18
+- clearly stacking ensemble methods with some neutruliazation and basic feature enginneering
+- consider log trans? 
 # UPDATE ON 1/09/23
 - model dev NumerAI found free 25gb
 - JP morgan QR hackerrank prep
