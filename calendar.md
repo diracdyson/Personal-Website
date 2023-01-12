@@ -1,3 +1,7 @@
+# UPDATE ON 1/11/23
+- Hackerrank prep
+- model dev Numerai have to figure out how to load
+- Econometrics asymptotics and MIT stats app
 # UPDATE ON 1/10/23
 - model dev NumerAI
 - JP morgan QR hackerrank prep 5 hour grid search lmfao next round in 18
