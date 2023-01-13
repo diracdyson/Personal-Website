@@ -1,3 +1,6 @@
+# UPDATE ON 1/12/23
+- Hackerrank prep
+- model dev Numerai
 # UPDATE ON 1/11/23
 - Hackerrank prep
 - model dev Numerai have to figure out how to load
