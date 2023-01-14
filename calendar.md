@@ -1,3 +1,9 @@
+# UPDATE ON 1/13/23
+- Jp Morgan hackerrank
+- Numerai challenge catboost
+- stacking ensemmbles are not ideal
+- seeking for feat eng technqiues 
+- synthetic feature generation via gmm or autoencoders
 # UPDATE ON 1/12/23
 - Hackerrank prep
 - model dev Numerai
