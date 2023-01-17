@@ -8,7 +8,7 @@ About me:
 - I have completed various projects in Quantum Computing, Machine Learning and Quantitative Finance either through university, the Institute of Advanced Computational Science at Stony Brook University or independently. My strong suit lies in pure data science, which is more or less data analysis and statistical model development(classical stats, advanced ML, time-series) to solve financial business problems, although you can see I am a researcher at heart
 
 
-Problems:
+Relevant skills:
 - What I am good at solving: Industry problems Forecasting(CCAR banking, sales, risk), Classification(fraud, loan pred), Clustering(Customer seg, forecasting, anomaly detection) and all the nauances entailed which require continuous learning
 - Besides my more practical mainstream model dev 'industrial' projects I still work on more theoretical statistics/ ML research topics, but more recently I have been trying to apply these more theoretical research ideas in practice effectively, which is rare but not unheard of and more often embraced in financial engineering and typically frowned upon in data science to use models from 'cutting edge' research papers. 
 
