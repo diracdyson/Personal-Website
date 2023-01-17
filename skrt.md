@@ -15,7 +15,7 @@ Relevant skills:
 
 What I do now:
 
-- HARDCORE statsitical data science and financial engineering project based learning much more throughough than any masters program and frankly many PhD's exploiting all possible resources on internet
+- HARDCORE statistical data science and financial engineering project based learning much more throughough than any masters program and frankly many PhD's exploiting all possible resources on internet
 
 - I am currently working on a research paper on anomaly detection on comparing classical stats(Tukey's fences) and modern day ML methods( VAE's, AE's, density methods, non-parametric methods) and providing a dynamic sophisticated methodological framework for anomaly detection in univariate time-series( potentially generalizes to n-dimensional time-series)
 
