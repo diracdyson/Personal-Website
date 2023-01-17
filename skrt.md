@@ -5,12 +5,23 @@
 About me:
 - Recent graduate from Stony Brook University with a double major in Applied Mathematics and Statistics and Physics(May 2021)
 - Seeking employment as a Quantitative Researcher/ Risk Analyst or Data Scientist/ Analyst
-- I have completed various projects in Quantum Computing, Machine Learning and Quantitative Finance either through university, the Institute of Advanced Computational Science at Stony Brook University or independently. My strong suit lies in pure data science, which is more or less data analysis and statistical model development(classical stats, advanced ML, time-series) to solve financial business problems, although you can see I am a researcher at heart.
+- I have completed various projects in Quantum Computing, Machine Learning and Quantitative Finance either through university, the Institute of Advanced Computational Science at Stony Brook University or independently. My strong suit lies in pure data science, which is more or less data analysis and statistical model development(classical stats, advanced ML, time-series) to solve financial business problems, although you can see I am a researcher at heart
+
+
+Problems:
 - What I am good at solving: Industry problems Forecasting(CCAR banking, sales, risk), Classification(fraud, loan pred), Clustering(Customer seg, forecasting, anomaly detection) and all the nauances entailed which require continuous learning
 - Besides my more practical mainstream model dev 'industrial' projects I still work on more theoretical statistics/ ML research topics, but more recently I have been trying to apply these more theoretical research ideas in practice effectively, which is rare but not unheard of and more often embraced in financial engineering and typically frowned upon in data science to use models from 'cutting edge' research papers. 
+
+
+What I do now:
+
+- HARDCORE statsitical data science and financial engineering project based learning much more throughough than any masters program and frankly many PhD's exploiting all possible resources on internet
+
 - I am currently working on a research paper on anomaly detection on comparing classical stats(Tukey's fences) and modern day ML methods( VAE's, AE's, density methods, non-parametric methods) and providing a dynamic sophisticated methodological framework for anomaly detection in univariate time-series( potentially generalizes to n-dimensional time-series)
 
-Below are some of the topics I have covered relating to machine learning and financial engineering(Sorry currently under heavy construction)
+
+
+Below are some of the major topics I have covered relating to machine learning and financial engineering although I have gone over many many other topics this is a brief synposis(Sorry currently under heavy construction):
 # Statistical and Applied Machine Learning for Data Science
 - Semi/Unsupervised learning K-Means, LOF, DBSCAN, GMM, Transformers, AutoEncoders, VAE's
 - Supervised learning for forecasting and classification ANN, CNN, LSTM, GDA
