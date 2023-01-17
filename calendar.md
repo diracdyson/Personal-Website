@@ -1,3 +1,5 @@
+# UPDATE ON 1/17/23
+- NUMERAI advancing
 # UPDATE ON 1/13/23
 - Jp Morgan hackerrank
 - Numerai challenge catboost
