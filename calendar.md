@@ -1,3 +1,8 @@
+# UPDATE ON 1/18/23
+- NUMERAI advancing
+- customer seg
+- catboost and lgbm package deep docs 
+- production level model 
 # UPDATE ON 1/17/23
 - NUMERAI advancing
 # UPDATE ON 1/13/23
