@@ -1,3 +1,6 @@
+# UPDATE ON 1/19/23
+- Stats MIT, econometrics
+- NumerAI RAM issues
 # UPDATE ON 1/18/23
 - NUMERAI advancing
 - customer seg
