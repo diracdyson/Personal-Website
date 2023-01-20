@@ -1,3 +1,6 @@
+# UPDATE ON 1/20/23
+- NumerAI
+- econometrics / MIT stats 
 # UPDATE ON 1/19/23
 - Stats MIT, econometrics
 - NumerAI RAM issues
