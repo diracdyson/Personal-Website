@@ -1,6 +1,9 @@
 # UPDATE ON 1/19/23
 - Stats MIT, econometrics
 - NumerAI RAM issues
+- cust seg
+- hacker rank jp morgan
+- [corr cost func](https://forum.numer.ai/t/differentiable-spearman-in-pytorch-optimize-for-corr-directly/2287/25)
 # UPDATE ON 1/18/23
 - NUMERAI advancing
 - customer seg
