@@ -1,5 +1,5 @@
 # UPDATE ON 1/21/23
--NumerAI gridsearch cv with feature important selected feat, time- series split crossval
+- NumerAI gridsearch cv with feature important selected feat, time- series split crossval
 - econometrics asymptotic regression estimators
 # UPDATE ON 1/20/23
 - econometrics / MIT stats  IV variables deriving in context of asymptotic probability and dist.
