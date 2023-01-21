@@ -1,6 +1,8 @@
 # UPDATE ON 1/20/23
-- NumerAI
-- econometrics / MIT stats 
+- econometrics / MIT stats  IV variables deriving in context of asymptotic probability and dist.
+- NumerAI progress programming hardcore 
+- tree based feature importance feature selection
+
 # UPDATE ON 1/19/23
 - Stats MIT, econometrics
 - NumerAI RAM issues
