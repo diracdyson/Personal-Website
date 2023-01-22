@@ -1,3 +1,7 @@
+# UPDATE 1/22/23
+- NumerAI training ensemble
+- BOOSTING autoencoder typo found
+
 # UPDATE ON 1/21/23
 - NumerAI gridsearch cv with feature important selected feat, time- series split crossval
 - econometrics asymptotic regression estimators
