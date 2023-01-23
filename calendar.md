@@ -1,5 +1,9 @@
 # UPDATE 1/22/23
 - NumerAI training ensemble
+- customer seg
+- econometrics
+# UPDATE 1/22/23
+- NumerAI training ensemble advanced progress 
 - BOOSTING autoencoder typo found
 
 # UPDATE ON 1/21/23
