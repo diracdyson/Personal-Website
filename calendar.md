@@ -1,5 +1,8 @@
+ UPDATE 1/23/23
+- NumerAI ensemble seeking other models
+- Econometrics app of stats MIT
 # UPDATE 1/23/23
-- NumerAI training ensemble
+- NumerAI training ensemble massive progress with feat eng 
 - customer seg
 - econometrics
 # UPDATE 1/22/23
