@@ -1,5 +1,7 @@
- # UPDATE 1/23/23
+ # UPDATE 1/24/23
 - NumerAI ensemble seeking other models
+- v4 dataset 
+- [very useful tips from founders](https://github.com/numerai/example-scripts/blob/master/analysis_and_tips.ipynb)
 - Econometrics app of stats MIT
 # UPDATE 1/23/23
 - NumerAI training ensemble massive progress with feat eng 
