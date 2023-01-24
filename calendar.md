@@ -1,4 +1,4 @@
- #UPDATE 1/23/23
+ # UPDATE 1/23/23
 - NumerAI ensemble seeking other models
 - Econometrics app of stats MIT
 # UPDATE 1/23/23
