@@ -1,4 +1,8 @@
- # UPDATE 1/24/23
+#1/25/23
+- NumerAi ensemble era based 
+- econometrics deep in
+
+# UPDATE 1/24/23
 - NumerAI ensemble seeking other models
 - v4 dataset 
 - [very useful tips from founders](https://github.com/numerai/example-scripts/blob/master/analysis_and_tips.ipynb)
