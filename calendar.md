@@ -1,4 +1,4 @@
-# 1/25/23
+# UPDATE 1/25/23
 - NumerAi ensemble era based 
 - econometrics deep in
 
