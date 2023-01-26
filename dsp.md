@@ -1,7 +1,6 @@
 ---
 title: Data Science Portfolio
 ---
-# Projects:
 # [Advanced clustering for Customer Segmentation](https://github.com/diracdyson/advancedCustomerSegmentationforclustering)
 ![](/umapg.png)
 - Performed data exploration developing an intuition for the data with Box-Plots, bivariate scatter, correlation/ covariance heatmaps to detect large variance and multicolinearity
