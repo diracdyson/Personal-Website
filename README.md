@@ -7,6 +7,9 @@ Welcome! My GitHub contains a lot of other stuff.
 [Click for Financial Engineering Portfolio](/fgp.md) 
 \
 \
+[Click for some of my Quantum Computing research from undergrad](https://github.com/diracdyson/vqeh2neutralspsa)
+\
+\
 [More about me and current topics of interest](/skrt.md)
 \
 \
