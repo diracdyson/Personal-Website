@@ -5,6 +5,12 @@
 Welcome! My 'tech stack' and Data Science/ Financial Engineering portfolio is below. My GitHub contains a lot of other stuff.
 \
 \
+[Data Science Portfolio](/dsp.md)
+\
+\
+[Financial Engineering Portfolio](/fgp.md) 
+\
+\
 ![](https://badgen.net/pypi/python/black) 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
@@ -22,7 +28,8 @@ Welcome! My 'tech stack' and Data Science/ Financial Engineering portfolio is be
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
+\
+\
 [Current topics of interest and more specifics about me](/skrt.md)
 
 # [Exploratory Data Anaysis + Sales Time-Series Forecasting and Classifying a Clustering](https://github.com/diracdyson/Super-Store-EDA)
