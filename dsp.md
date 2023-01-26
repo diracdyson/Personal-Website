@@ -1,4 +1,6 @@
-# Data Science Portfolio
+---
+Data Science Portfolio
+---
 # Projects:
 # [Exploratory Data Anaysis + Sales Time-Series Forecasting and Classifying a Clustering](https://github.com/diracdyson/Super-Store-EDA)
 ![](/box.png)
