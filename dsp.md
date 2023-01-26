@@ -4,10 +4,8 @@ title: Data Science Portfolio
 # [Advanced clustering for Customer Segmentation](https://github.com/diracdyson/advancedCustomerSegmentationforclustering)
 ![](/umapg.png)
 - Performed data exploration developing an intuition for the data with Box-Plots, bivariate scatter, correlation/ covariance heatmaps to detect large variance and multicolinearity
-- Applied advanced feature engineering techniques by strategically combining numerical features of similar data collection and then applied PCA to reduce dimensionality even more; the n_components were found according to explained variance plot. Outliers which were 3 standard deviations outside of the mean were as well as missing values were removed since they were statistically insignificant only accounting for less than 1% of the sample
-- Hyperparameter tuned industry favored cluster models for silhouette score by oveeriding GridSearchCV and created a function to do it fom scratch
-- Found apporpirate cluster number by Kmeans SSE plot and found a hyperparameter tuned BIRCH to yield best customer segmentations
-- Applied UMAP dimensionality reduction to view projected clusterings in 2-D place
+- Applied advanced feature engineering techniques by strategically combining numerical features of similar data collection and then applied PCA to reduce dimensionality even more
+- Hyperparameter tuned sklearn cluster models for silhouette score and found apporpirate cluster number by Kmeans SSE plot and found a hyperparameter tuned BIRCH to yield best customer segmentations
 
 # [Production level Customer Churn classification](https://github.com/diracdyson/churn)
 ![](/churngroc.png)
