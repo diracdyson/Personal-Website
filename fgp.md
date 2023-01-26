@@ -1,4 +1,5 @@
 # Financial Engineering Portfolio
+# Projects:
 # [Financial Returns Analysis and Sharpe Ratio from Weighted Least Squares](https://github.com/diracdyson/Antarctica-Managment-Returns)
 ![](/heatant.png)
 - This was real life returns data of a Hedge Fund and its strategies provided by Antarctica Asset Management
