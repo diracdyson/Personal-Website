@@ -1,6 +1,6 @@
 
 ---
-title: Tasks list: UPDATE 1/26/23
+title: Tasks completed: UPDATE 1/26/23
 ---
 - Numerai Colab simulation worked down to a 't'
 - seeking other models
