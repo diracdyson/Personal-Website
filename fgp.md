@@ -1,7 +1,7 @@
 ---
 title: Financial Engineering Portfolio
 ---
-# [Sharpe Ratio from Weighted Least Squares and advanced Forecasting](https://github.com/diracdyson/Antarctica-Managment-Returns)
+# [Sharpe Ratio from Weighted Least Squares and Advanced Forecasting](https://github.com/diracdyson/Antarctica-Managment-Returns)
 ![](/heatant.png)
 - This was real life returns data of a Hedge Fund and its strategies provided by Antarctica Asset Management
 - Dealt with outliters by Z-score method and applied the generalized least sqaures method for heterosckedastic time-series data and deduced a better portfolio than the Hedge Fund from a CAPM multilinear regression model
