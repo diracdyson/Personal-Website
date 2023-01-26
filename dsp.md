@@ -5,7 +5,7 @@ title: Data Science Portfolio
 ![](/umapg.png)
 - Performed data exploration developing an intuition for the data with Box-Plots, bivariate scatter, correlation/ covariance heatmaps to detect large variance and multicolinearity
 - Applied advanced feature engineering techniques by strategically combining numerical features of similar data collection and then applied PCA to reduce dimensionality even more
-- Hyperparameter tuned sklearn cluster models for silhouette score, found apporpirate cluster number by Kmeans SSE plot and lastly yielded a hyperparameter tuned BIRCH cluster model for the best customer segmentations
+- Hyperparameter tuned sklearn cluster models for silhouette score, found apporpirate cluster number by elbow method and lastly yielded a hyperparameter tuned BIRCH cluster model for the best customer segmentations
 
 # [Production level Customer Churn Classification](https://github.com/diracdyson/churn)
 ![](/churngroc.png)
