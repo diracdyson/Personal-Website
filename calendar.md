@@ -1,5 +1,5 @@
 ---
-title: Daily task completion updates
+title: Daily task updates
 ---
 # UPDATE 1/26/23
 - Numerai Colab simulation worked down to a 't'
