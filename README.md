@@ -7,7 +7,7 @@ Welcome! My GitHub contains a lot of other stuff.
 [Click for Financial Engineering Portfolio](/fgp.md) 
 \
 \
-[Current topics of interest and more specifics about me](/skrt.md)
+[More about me and current topics of interest](/skrt.md)
 \
 \
 How to reach me: 
