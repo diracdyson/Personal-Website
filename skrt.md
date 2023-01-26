@@ -1,4 +1,7 @@
 [What I work on the daily](/calendar.md)
+\
+\
+[Some useful tips for the Numerai tournament of which I actively participate](https://github.com/diracdyson/NumerAI)
 
 
 
