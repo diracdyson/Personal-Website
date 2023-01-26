@@ -1,3 +1,4 @@
+# Data Sci
 # [Exploratory Data Anaysis + Sales Time-Series Forecasting and Classifying a Clustering](https://github.com/diracdyson/Super-Store-EDA)
 ![](/box.png)
 -  Found significant business discoveries during basic data exploration such as stores in Texas having negative profit in 2017 due to mainly selling large amounts of discounted binders at a loss
