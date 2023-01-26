@@ -8,7 +8,7 @@
 About me:
 - Recent graduate from Stony Brook University with a double major in Applied Mathematics and Statistics and Physics(May 2021)
 - Seeking employment as a Quantitative Researcher/ Risk Analyst or Data Scientist/ Analyst
-- I have completed various projects in Quantum Computing, Machine Learning and Quantitative Finance either through university, the Institute of Advanced Computational Science at Stony Brook University or independently. My strong suit lies in pure data science, which is more or less data analysis and statistical model development(classical stats, advanced ML, time-series) to solve financial business problems, although you can see I am a researcher at heart
+- During undergrad as a student researcher I completed various projects in Quantum Computing, Machine Learning and Quantitative Finance either through university, the Institute of Advanced Computational Science at Stony Brook University or independently. My strong suit lies in pure data science, which is more or less data analysis and statistical model development(classical stats, advanced ML, time-series) to solve financial business problems, although you can see I am a researcher at heart
 
 
 Relevant skills:
