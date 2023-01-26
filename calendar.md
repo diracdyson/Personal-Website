@@ -1,3 +1,8 @@
+# UPDATE 1/26/23
+- Numerai Colab simulation worked down to a 't'
+- seeking other models
+- econometrics 
+- job fair NYC
 # UPDATE 1/25/23
 - NumerAi ensemble era based 
 - econometrics deep in
