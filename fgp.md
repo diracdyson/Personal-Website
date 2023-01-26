@@ -1,17 +1,11 @@
 ---
 title: Financial Engineering Portfolio
 ---
-# Projects:
-# [Financial Returns Analysis and Sharpe Ratio from Weighted Least Squares](https://github.com/diracdyson/Antarctica-Managment-Returns)
+# [Sharpe Ratio from Weighted Least Squares and advanced Forecasting](https://github.com/diracdyson/Antarctica-Managment-Returns)
 ![](/heatant.png)
 - This was real life returns data of a Hedge Fund and its strategies provided by Antarctica Asset Management
 - Dealt with outliters by Z-score method and applied the generalized least sqaures method for heterosckedastic time-series data and deduced a better portfolio than the Hedge Fund from a CAPM multilinear regression model
-- Dispersion analysis is used to decipher riskyness of portfolio
-
-# [House Price Forecasting and Feature Engineering Big Data](https://github.com/diracdyson/Housing-Price-Feature-Engineering-Forecasting)
-![](/mdi.png)
-- Utilized Pandas and Scikit-learn to perform feature engineering on a housing dataset with 83 features manipulating missing values, outliers, numerical and categorical features
-- Forecasted for house price and selected features through exploiting LASSO Regression and analyzed feature importance with the aid of permutation and mean decrease in impurity by Random Forest Regressor via Scikit-learn
+- Forecasted for Hedge Fund returns using econometric models built from scratch in NumPy such as Random Forest Regressor, XGBoost, SARIMAX-GARCH and using TensorFlow a transformer
 
 # [Modern Portfolio Theory](https://github.com/diracdyson/VaRGARCH)
 ![](/Unknown-2.png)
