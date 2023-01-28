@@ -1,6 +1,9 @@
 ---
 title: Daily task updates
 ---
+# UPDATE 1/27/23
+- Numerai major ram issues 
+- econometrics
 # UPDATE 1/26/23
 - Numerai Colab simulation worked down to a 't'
 - seeking other models
