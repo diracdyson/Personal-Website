@@ -1,7 +1,7 @@
 ---
 title: Daily task updates
 ---
-# UPDATE 1/28/23
+# UPDATE 1/30/23
 - debugging NumerAI simulation and submission
 - Econometrics
 - pandas/numpy 
