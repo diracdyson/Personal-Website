@@ -1,6 +1,9 @@
 ---
 title: Daily task updates
 ---
+# UPDATE 1/31/23
+- NumerAI feature engineering/ reseearching model dev
+- econometrics
 # UPDATE 1/30/23
 - debugging NumerAI simulation and submission
 - Econometrics
