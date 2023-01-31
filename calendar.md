@@ -4,7 +4,7 @@ title: Daily task updates
 # UPDATE 1/30/23
 - debugging NumerAI simulation and submission
 - Econometrics
-- pandas/numpy 
+- first submission!
 # UPDATE 1/27/23
 - Numerai major ram issues 
 - econometrics
