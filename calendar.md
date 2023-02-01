@@ -1,6 +1,11 @@
 ---
 title: Daily task updates
 ---
+# UPDATE 02/01/23
+- NumerAI feature engineering/ reseearching model dev
+- econometrics
+- credit score EDA
+- [projection persuit](https://www.slac.stanford.edu/cgi-bin/getdoc/slac-pub-1312.pdf)
 # UPDATE 1/31/23
 - NumerAI feature engineering/ reseearching model dev
 - econometrics
