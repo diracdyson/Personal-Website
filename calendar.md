@@ -2,6 +2,11 @@
 title: Daily task updates
 ---
 # UPDATE 02/01/23
+- Major RAM issues with NumerAI 
+- credit EDA
+- research paper
+- econometrics
+# UPDATE 02/01/23
 - NumerAI feature engineering/ reseearching model dev
 - econometrics
 - credit score EDA
