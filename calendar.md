@@ -1,6 +1,10 @@
 ---
 title: Daily task updates
 ---
+# UPDATE 02/02/23
+- Major RAM issues with NumerAI 
+- credit EDA
+
 # UPDATE 02/01/23
 - Major RAM issues with NumerAI 
 - credit EDA
