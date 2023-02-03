@@ -1,6 +1,10 @@
 ---
 title: Daily task updates
 ---
+# UPDATE 02/03/23
+- NumerAI resolved issues by slicing up by 4's then taking upper half 
+- econometrics
+- credit eda 
 # UPDATE 02/02/23
 - Major RAM issues with NumerAI 
 - credit EDA
