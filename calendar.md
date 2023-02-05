@@ -1,6 +1,9 @@
 ---
 title: Daily task updates
 ---
+# UPDATE 02/06/23
+- next round NumerAI submission
+- econometrics greene chapter 6 
 # UPDATE 02/05/23
 - NumerAI submission
 - research paper alot of progress(boosted autoencoder, other coding formalities)
