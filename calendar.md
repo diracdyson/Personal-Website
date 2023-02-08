@@ -1,7 +1,9 @@
 ---
 title: Daily task updates
 ---
-# UPDATE 02/06/23
+# UPDATE 02/07/23
+- NumerAI submission for monday
+# UPDATE 02/07/23
 - NumerAI submission
 - research paper boosted autoencoder
 # UPDATE 02/06/23
