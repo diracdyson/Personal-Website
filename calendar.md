@@ -1,6 +1,10 @@
 ---
 title: Daily task updates
 ---
+# UPDATE 02/09/23
+- NumerAI submission for monday
+- research paper GMM -> what to use as base labels ->AUC score
+- credit proj
 # UPDATE 02/08/23
 - NumerAI submission for monday
 # UPDATE 02/07/23
