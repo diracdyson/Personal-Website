@@ -16,9 +16,9 @@ Relevant skills:
 
 What I do now:
 - NumerAI challenge partime
-- HARDCORE statistical data science and financial engineering projects based learning much more throughough than any masters program and frankly many PhD's exploiting all possible resources on internet
+- HARDCORE statistical data science and financial engineering projects based learning much more throughough than any masters program
 - Python programming practices and maintaining fluencies in SQL
-- Besides my more practical mainstream model dev 'industrial' projects I still work on more theoretical statistics/ ML research topics, but more recently I have been trying to apply these more theoretical research ideas in practice effectively, which is rare but not unheard of and more often embraced in financial engineering and typically frowned upon in data science to use models from 'cutting edge' research papers. 
+- Besides my more practical mainstream model dev 'industrial' projects I still work on more theoretical statistics/ ML research topics
 - I am currently working on a research paper on anomaly detection on comparing classical stats(Tukey's fences) and modern day ML methods( VAE's, AE's, density methods, non-parametric methods) and providing a dynamic sophisticated methodological framework for anomaly detection in univariate time-series( potentially generalizes to n-dimensional time-series)
 
 
