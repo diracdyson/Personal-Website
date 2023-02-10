@@ -1,7 +1,7 @@
 ---
 title: Daily task updates
 ---
-# UPDATE 02/09/23
+# UPDATE 02/10/23
 - NumerAI ensemble resolved
 # UPDATE 02/09/23
 - NumerAI submission for monday
