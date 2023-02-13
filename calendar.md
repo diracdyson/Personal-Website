@@ -1,7 +1,7 @@
 ---
 title: Daily task updates
 ---
-# UPDATE 02/10/23
+# UPDATE 02/13/23
 - NumerAi submissions 
 - options pricing 
 # UPDATE 02/10/23
