@@ -2,8 +2,11 @@
 title: Daily task updates
 ---
 # UPDATE 02/13/23
+- NumerAI model dev ensemble 
+- options clustering project
+# UPDATE 02/13/23
 - NumerAi submissions 
-- options pricing 
+- options pricing clusterting paper
 # UPDATE 02/10/23
 - NumerAI ensemble resolved
 # UPDATE 02/09/23
