@@ -2,7 +2,10 @@
 title: Daily task updates
 ---
 # UPDATE 02/17/23
-- NumerAI
+- research paper
+- NumerAI simulate
+# UPDATE 02/16/23
+- NumerAI debugging
 - research paper
 # UPDATE 02/15/23
 - NumerAI challenge
