@@ -1,9 +1,14 @@
 ---
 title: Daily task updates
 ---
+# UPDATE 02/19/23
+- NumerAI simulate and serious maintainence re added neutralization
+# UPDATE 02/18/23
+- NumerAI simulate small maintaience break day 
 # UPDATE 02/17/23
 - research paper
 - NumerAI simulate
+- feat selec paper
 # UPDATE 02/16/23
 - NumerAI debugging
 - research paper
