@@ -1,8 +1,13 @@
 ---
 title: Daily task updates
 ---
+# UPDATE 02/20/23
+- Presidens day  numerAI submission
+- research paper AE's and VAE's math stanford, berkley
+- econometrics
 # UPDATE 02/19/23
 - NumerAI simulate and serious maintainence re added neutralization
+- research paper
 # UPDATE 02/18/23
 - NumerAI simulate small maintaience break day 
 # UPDATE 02/17/23
