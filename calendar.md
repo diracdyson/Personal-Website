@@ -8,6 +8,7 @@ title: Daily task updates
 # UPDATE 02/19/23
 - NumerAI simulate and serious maintainence re added neutralization
 - research paper
+- Hacker rank mock test Python3
 # UPDATE 02/18/23
 - NumerAI simulate small maintaience break day 
 # UPDATE 02/17/23
