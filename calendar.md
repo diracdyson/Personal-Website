@@ -1,8 +1,11 @@
 ---
 title: Daily task updates
 ---
+# UPDATE 02/21/23
+- research paper
+- NumerAI
 # UPDATE 02/20/23
-- Presidens day  numerAI submission
+- Presidents day  numerAI submission
 - research paper AE's and VAE's math stanford, berkley
 - econometrics
 # UPDATE 02/19/23
