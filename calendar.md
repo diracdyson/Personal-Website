@@ -1,6 +1,10 @@
 ---
 title: Daily task updates
 ---
+# UPDATE 02/26/23
+- NumerAI round 429
+- option pricing clustering
+- research paper  
 # UPDATE 02/21/23
 - research paper
 - NumerAI
