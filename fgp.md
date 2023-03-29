@@ -7,7 +7,7 @@ title: Financial Engineering Portfolio
 
 - Achieved 93rd percentile amongst professional quantitative researchers and data scientists despite heavily constrained by lack of RAM and GPU capabilities 
 - Developed an object-oriented data and model pipeline which performs preprocessing, model based feature engineering, hyperparameter tuning through cross-validation and lastly submits the predicted forecast reliant upon state-of-the-art research techniques 
-- I am an active participant due to the competitive nature and economic incentives I do not share the current code I use only an old Toy Model
+- I am an active participant due to the competitive nature and economic incentives I do not share the current code only an old Toy Model
 
 
 # [Factor Portfolio Weighted Least Squares and Advanced Forecasting](https://github.com/diracdyson/Antarctica-Managment-Returns)
