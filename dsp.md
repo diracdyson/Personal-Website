@@ -3,7 +3,9 @@ title: Data Science Portfolio
 ---
 
 # [ NumerAI Hedge Fund](https://github.com/diracdyson)
-![](/numerai.png)
+![](/crossval.png)
+![](/numerai2.png)
+
 
 - Achieved 93rd percentile amongst professional quantitative researchers and data scientists despite heavily constrained by lack of RAM and GPU capabilities 
 - Developed an object-oriented data and model pipeline which performs preprocessing, model based feature engineering, hyperparameter tuning through cross-validation and lastly submits the predicted forecast reliant upon state-of-the-art research techniques 
