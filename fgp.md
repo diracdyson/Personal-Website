@@ -3,7 +3,6 @@ title: Financial Engineering Portfolio
 ---
 
 # [ NumerAI Hedge Fund](https://github.com/diracdyson)
-![](/crossval.png)
 ![](/numerai2.png)
 
 
