@@ -2,12 +2,10 @@
 title: Data Science Portfolio
 ---
 
-# [ NumerAI Hedge Fund](https://github.com/diracdyson)
-![](/numerai2.png)
-
-
-- Achieved 93rd percentile amongst professional quantitative researchers and data scientists despite heavily constrained by lack of RAM and GPU capabilities 
-- Developed an object-oriented data and model pipeline which performs preprocessing, model based feature engineering, hyperparameter tuning through cross-validation and lastly submits the predicted forecast reliant upon state-of-the-art research techniques 
+# [ NumerAI Hedge Fund](https://numer.ai/brsantos1)
+![](/numeraires.png)
+- Achieved 97th percentile amongst professional quantitative researchers and data scientists in a daily forecasting tournament in which the Hedge Fund NumerAI relies upon for their own Portfolio adjustments
+- Developed an object-oriented data and model pipeline which performs preprocessing, model based feature engineering/selection, hyperparameter tuning through cross-validation with Time-Series techniques and lastly submits the predicted forecast reliant upon state-of-the-art research techniques 
 - I am an active participant due to the competitive nature and economic incentives I do not share the current code I show only an old Toy Model
 
 
