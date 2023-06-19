@@ -1,6 +1,9 @@
 Welcome! My GitHub contains a lot of other stuff.
 \
 \
+![](/download.webp)
+\
+\
 [Click for Data Science Portfolio](/dsp.md)
 \
 \
