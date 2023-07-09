@@ -1,9 +1,9 @@
 # Site settings
-title: Portfolio of Brandonlee Santos
+title: Personal Website of Brandonlee Santos
 author:
   name: Brandonlee Santos
   email: santos.brandonlee1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is under constant heavy construction
+  This site is under constant heavy construction.
 # Build settings
 remote_theme: jekyll/minima
